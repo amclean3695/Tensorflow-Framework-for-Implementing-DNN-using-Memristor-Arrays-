@@ -41,7 +41,11 @@ To visualize the TensorFlow graph, run the command:
 ```
 $> tensorboard --logdir=/tmp/tensorflow_logs
 ```
-Then go to your browser and type http://0.0.0.0:6006 into the URL.
+Then go to your browser and type 
+```
+http://0.0.0.0:6006
+``` 
+into the URL.
 
 
 # CONTRIBUTORS
